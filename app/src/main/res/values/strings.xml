@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cambio entre Activitys</string>
+    <string name="wellcomeText">Ingrese su nombre</string>
+    <string name="next">Siguiente</string>
+    <string name="name">Name</string>
+    <string name="hiActivity">Pantalla de Saludo</string>
+    <string name="prev">Volver</string>
+</resources>
